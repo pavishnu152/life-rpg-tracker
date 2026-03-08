@@ -1,0 +1,10 @@
+{
+  "name": "Life RPG Tracker",
+  "short_name": "LifeRPG",
+  "description": "Gamified habit tracker with XP, levels, streaks, heatmap and discipline score.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060a14",
+  "theme_color": "#0f172a",
+  "icons": []
+}
